@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jogo da velha</string>
+    <string name="continuar">Continuar</string>
+    <string name="venceu">" venceu!"</string>
+    <string name="empate">Empate !</string>
+    <string name="jogador1">Jogador 1</string>
+    <string name="jogador2">Jogador 2</string>
+    <string name="digite_o_nome_do_jogador_1">Digite o nome do jogador 1</string>
+    <string name="digite_o_nome_do_jogador_2">Digite o nome do jogador 2</string>
+    <string name="play">Jogar</string>
+    <string name="feito_por_viniefortes">Feito por : VinieFortes</string>
+</resources>

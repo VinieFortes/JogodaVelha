@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="continuar">Continue</string>
+    <string name="venceu">" won!"</string>
+    <string name="empate">Draw!</string>
+    <string name="jogador1">Player 1</string>
+    <string name="jogador2">Player 2</string>
+    <string name="digite_o_nome_do_jogador_1">Enter player name 1</string>
+    <string name="digite_o_nome_do_jogador_2">Enter player name 2</string>
+    <string name="play">PLAY</string>
+    <string name="feito_por_viniefortes">By: VinieFortes</string>
+</resources>
